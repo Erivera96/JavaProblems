@@ -3,7 +3,8 @@
  * give your friend a hint that indicates how many digits in the guess match the secret number.
  * The 'match' must be indicated two ways: 1) Bulls - correct digit in correct place or 2) Cows
  * - amount of correct digits in wrong position. 
-   Task: write a function that returns the hint according to the matching indications */
+   Task: write a function that returns the hint according to the matching indications 
+*/
 
 class BullsAndCows
 {
