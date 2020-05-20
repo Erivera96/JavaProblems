@@ -9,7 +9,7 @@ public class FacDigSum
 	 * 10! is 3628800, its factorial digit sum means
 	 * 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27
 	 * Goal: Find the factorial digit sum for 100!
-	 */
+	*/
 
 	// Compute the factorial for the given number
 	public static BigInteger factorial(BigInteger n)
