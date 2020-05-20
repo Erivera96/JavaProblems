@@ -1,7 +1,8 @@
 /* LeetCode 647 - Palindromic Substrings
  * Task: Given a string, count how many palindromic substrings are in the string.
  * The substrings with different start indexes or end indexes are counted as different
- * substrings even if they consist of the same characters */
+ * substrings even if they consist of the same characters 
+*/
 
 class PaliSubstr
 {
